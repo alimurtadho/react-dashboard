@@ -1,23 +1,3 @@
-<p align="center">
-A free React admin dashboard template pack featuring a modern design system <br />  and lots of custom templates and components.
-</p>
-
-<p align="center">
-  <a href="https://designrevision.com/demo/shards-dashboard-lite-react">
-    <img height="55px" src="assets/btn-live-preview.png" />
-  </a>
-  <a href="https://designrevision.com/downloads/shards-dashboard-lite-react">
-    <img height="55px" src="assets/btn-learn-more.png" />
-  </a>
-</p>
-
-<br />
-
-<br />
-
-> ✨ **Note:** You can download the Sketch files from the official product page.
-
-<br />
 
 ### Quick Start
 
